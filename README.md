@@ -43,6 +43,7 @@ When reading I have then gesehe that one should therefore use as few lights as p
 
 ### Improvements
 Of course, I also have a lot of room for improvement. For example, I have a lot of duplicated code in the spotlights, which can certainly be simplified. Also the loading of the textures can be improved. But since the time for this project is already over the targeted 12 hours, I leave this version as it is.
+Another thing that can be improved is the mouse movement. The movement at the moment is to direct and it could be a bit smoother.
 
 ### Images
 I compressed all the images to save space and let the site load faster.
